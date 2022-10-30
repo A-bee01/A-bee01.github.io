@@ -1,0 +1,31 @@
+{
+  "name": "Girls Nest",
+  "short_name": "Girls Nest",
+  "description": "Girls Nest is a platform for building a healthy society through access to health related information in form of audio. We also have a section where donations can be made to help with the cause.",
+  "dir": "ltr",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "./images/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#F2994A",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "scope": "/",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://Tech-Girl1.github.io/"
+    },
+    {
+      "platform": "web",
+      "url": "https://Tech-Girl1.github.io/girls-nest/"
+    }
+  ]
+}

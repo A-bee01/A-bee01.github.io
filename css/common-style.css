@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+:root {
+    --brand-color: #F2994A;
+    --site-width: 85vw;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-brand {
+    color: #fff;
+    background-color: var(--brand-color);
+    border-color: var(--brand-color);
+    --brand-btn-hover-bg: #F0994C;
+    --brand-btn-hover-color: #FFF;
+    --brand-btn-hover-border-color: #FFF;
+    height: 3rem;
+    width: 160px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn-brand:hover {
+    color: var(--brand-btn-hover-color);
+    background-color: var(--brand-btn-hover-bg);
+    border-color: var(--btn-hover-border-color);
+}

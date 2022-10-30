@@ -1,0 +1,268 @@
+body {
+    /* overflow: hidden; */
+    /* letter-spacing: 0.05rem; */
+}
+
+a {
+    color: #666 !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--brand-color);
+}
+h4 {
+    font-weight: 600 !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+    color: #333;
+}
+h5 {
+    font-weight: 500 !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+    color: #555;
+}
+
+#wrapper {
+    min-height: 100vh;
+    position: relative;
+    top: 4rem;
+}
+
+header {
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.336);
+}
+
+.form-group {
+    width: 33%;
+}
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.form-control{
+    background-color: #FAFAFA;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.search-submit {
+    display: none;
+}
+
+.nav-link i {
+    margin-right: 0.5rem;
+}
+.nav-ext {
+    display: block !important;
+    flex-wrap: nowrap !important;
+}
+
+.wrapper-row {
+    height: 100vh;
+}
+.right-content-box {
+    background-color: #FCF2E8;
+    padding: 2.5rem 2rem;
+    height: 100rem;
+    overflow-y: auto;
+}
+
+footer{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+/* .foot-foot {
+    border-top: 1px solid #aaa;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #666;
+    background-color: #FCF2E8;
+    margin: 0;
+} */
+
+/* .foot-foot a {
+    display: block;
+    margin-right: 50px;
+} */
+
+.left-nav-box {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-y: hidden;
+}
+
+.left-nav-box ul {
+    margin-top: 2rem;
+    position: fixed;
+    width: inherit;
+}
+
+.left-nav-box li div{
+    min-height: 3.3rem;
+    display: flex;
+    cursor: pointer;
+}
+
+.menu-item:hover {
+    background-color: #FCF2E8;
+}
+
+.menu-item:hover .hover-pointer {
+    visibility: visible;
+}
+
+li.nav-item div a {
+    min-height: 3.3rem;
+    width: 100%;
+    display: block;
+    position: relative;
+    top: 0.5rem;
+}
+
+.hover-pointer {
+    min-height: 100%;
+    width: 0.2rem;
+    background-color: var(--brand-color);
+    visibility: hidden;
+}
+
+.article-box {
+    padding: 1rem 0.5rem;
+    margin: 1rem 0 5rem;
+}
+
+.article-img {
+    padding-bottom: 1rem;
+}
+
+.div-selected {
+    background-color: #FCF2E8;
+}
+.pointer-selected {
+    visibility: visible;
+}
+
+.cat-row {
+    padding: 0 1rem;
+}
+
+.topcat-box:last-child {
+    margin-right: 0;
+}
+.topcat-box {
+    margin-top:  1rem;
+    margin-bottom: 5rem;
+    margin-right: 2rem;
+    flex: 1 1 0%;
+    padding: 0.8rem;
+}
+.cat-img-box {
+    margin-bottom: 0.8rem;
+    height: 80%;
+}
+
+.cat-img-box img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.audio-cat-box {
+    padding: 0.8rem 0;
+}
+
+.audio-box {
+    background-color: #FFF; /*  #F1F3F4; */
+    width: 26rem;
+    padding: 0.2rem 0rem 1rem;
+    margin: 2rem 0 5rem;
+    box-sizing: border-box;
+}
+.audio-clip {
+    margin: auto 0;
+    margin-left: -0.5rem;
+    cursor: pointer;
+    padding: 0;
+}
+.audio-img-box img {
+    height: 4rem;
+    width: 4rem;
+}
+
+/* Audio.html */
+.audio-cat-box {
+    margin-bottom: 3rem;
+}
+
+.audio-group {
+    margin-top: 1.5rem;
+}
+.audio-group audio{
+    width: 100%;
+}
+.audio-title p {
+    margin: 0 0 .3rem 1.4rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    word-spacing: 0.2rem;
+}
+
+audio::-webkit-media-controls-play-button{
+    background-color: var(--brand-color);
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.info {
+    color: #444;
+    font-size: 0.9rem;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+a.see-all {
+    color: var(--brand-color) !important;
+    text-decoration: none;
+    font-size: 1rem;
+    display: block;
+    margin-top: 2rem;
+}
+
+a.see-all:hover {
+    text-decoration: underline;
+}
+
+.logout {
+    position: fixed;
+    bottom: 5rem;
+    left: 1.5rem;
+}
+
+@media (max-width: 768px) {
+   .right-content-box{
+    position: relative;
+    top: 13rem;
+   }
+
+   .article-box {
+    margin-bottom: 5rem;
+   }
+   
+   .audio-cat-box {
+    flex-direction: column-reverse;
+   }
+}
+
