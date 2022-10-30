@@ -170,112 +170,47 @@
     </div>
     <br />
   </div>
-  <footer class="container-fluid">
-    <div class="clear-fix"></div>
-    <div class="row segment-05">
-      <div class="col-sm-4">
-        <img
-          src="../images/logo.png"
-          alt=""
-          srcset=""
-          style="width: 30px"
-        />&nbsp; Girls Nest
-      </div>
-      <div class="col-sm-2">
-        <div class="foot-col">
-          <h4>Community</h4>
-          <a href="https://buymeacoffee.com/girl.nest">Donate to the cause</a>
-          <a href="https://tawk.to/chat/635d1e08b0d6371309cc304f/default"
-            >Support</a
-          >
-        </div>
-      </div>
-      <div class="col-sm-2">
-        <div class="foot-col">
-          <h4>About us</h4>
-          <a href="#">What's the issue</a>
-          <a href="#">What we do</a>
-        </div>
-      </div>
-      <div class="col-sm-2">
-        <div class="foot-col">
-          <h4>Partners</h4>
-          <a href="https://www.oseq.org/">OSEQ</a>
-          <a href="https://wom.fm/">Wom.fm</a>
-          <a href="https://www.audiopedia.org/en/Main_Page">Audiopedia</a>
-          <a href="https://shecodeafrica.org/">SCA</a>
-        </div>
-      </div>
-      <div class="col-sm-2">
-        <div class="foot-col">
-          <h4>Contact</h4>
-          <div class="social">
-            <a href="https://twitter.com"
-              ><i class="fa fa-twitter pe-1" aria-hidden="true"></i
-            ></a>
-            <a href="https://facebook.com"
-              ><i class="fa fa-facebook-square pe-1" aria-hidden="true"></i
-            ></a>
-            <a href="https://linkedin.com"
-              ><i class="fa fa-linkedin-square" aria-hidden="true"></i
-            ></a>
-          </div>
-        </div>
-      </div>
 
-      <div class="d-flex flex-row foot-foot">
-        <a href="https://Tech-Girl1.github.io"
-          >&copy; Girls Nest
-          <script>
-            document.write(new Date().getFullYear());
-          </script></a
-        >
-        <a href="#">Terms of services</a>
-        <a href="#">Privacy policy</a>
-      </div>
-    </div>
-  </footer>
-</body>
+  <script id="rendered-js" type="text/javascript" src="./audio.js"></script>
 
-<script id="rendered-js" type="text/javascript" src="./audio.js"></script>
+  <script>
+    function download(file) {
+      window.location = file;
+    }
+  </script>
+  <script language="JavaScript">
+    window.onkeydown = function (e) {
+      return !(e.keyCode == 32);
+    };
 
-<script>
-  function download(file) {
-    window.location = file;
-  }
-</script>
-<script language="JavaScript">
-  window.onkeydown = function (e) {
-    return !(e.keyCode == 32);
-  };
-
-  /*
+    /*
 Handles a click on the song played progress bar.
 */
 
-  document
-    .getElementById("song-played-progress")
-    .addEventListener("click", function (e) {
-      var offset = this.getBoundingClientRect();
-      var x = e.pageX - offset.left;
-      Amplitude.setSongPlayedPercentage(
-        (parseFloat(x) / parseFloat(this.offsetWidth)) * 100
-      );
-    });
-</script>
+    document
+      .getElementById("song-played-progress")
+      .addEventListener("click", function (e) {
+        var offset = this.getBoundingClientRect();
+        var x = e.pageX - offset.left;
+        Amplitude.setSongPlayedPercentage(
+          (parseFloat(x) / parseFloat(this.offsetWidth)) * 100
+        );
+      });
+  </script>
 
-<script language="JavaScript">
-  var audiotitle = Amplitude.getActiveSongMetadata().name;
-  var audiourl = window.location.href;
-  openShare = async () => {
-    if (navigator.share) {
-      navigator
-        .share({
-          title: audiotitle,
-          url: audiourl,
-        })
-        .then(() => console.log("Successful share"))
-        .catch((error) => console.log("Error sharing", error));
-    }
-  };
-</script>
+  <script language="JavaScript">
+    var audiotitle = Amplitude.getActiveSongMetadata().name;
+    var audiourl = window.location.href;
+    openShare = async () => {
+      if (navigator.share) {
+        navigator
+          .share({
+            title: audiotitle,
+            url: audiourl,
+          })
+          .then(() => console.log("Successful share"))
+          .catch((error) => console.log("Error sharing", error));
+      }
+    };
+  </script>
+</body>
