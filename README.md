@@ -30,6 +30,10 @@ Solution: Girls Nest is a platform built as a safe space for marginalized girls 
 * A place where these ladies can have access to learn non technical and technical skills. 
 * An open space where ladies that do not mind can share their stories. To help keep others motivated. One can also decide to be anonymous. 
 
+For more information scan the QR code to visit the Girls Nest
+
+![Girls_nest_poster](./images/Girls_nest_poster.png)
+
 
 ## Building the WebApp
 
