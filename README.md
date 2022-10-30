@@ -4,9 +4,9 @@ Women have always been at the center of the society, and while they are seen as 
 
 During the covid 19 pandemic, there was a trend, "Justice for Uwa" on the social media. A teenager who was raped. She couldn't contain the feeling that she died at the end of the day. A lot of women go through cases even more weightier than this. They end up having no one to talk to or run to and this have lead to depression, mental stress and so many more. 
 
-There are organization focused on solving problems for the girl child but it's not enough and that's where Girlverse Foundation comes in. 
+There are organization focused on solving problems for the girl child but it's not enough and that's where Girls Nest Foundation comes in. 
 
-Girlverse is an organization focused on helping females who have been affected sexually and mentally. We help them speak out, know how to handle these problems and also get all the support they need. 
+Girls Nest is an organization focused on helping females who have been affected sexually and mentally. We help them speak out, know how to handle these problems and also get all the support they need. 
 
 
 ## Case study
