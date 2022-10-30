@@ -51,13 +51,13 @@ For more information scan the QR code to visit Girls Nest
 
 
 ## Building the WebApp
-IMAGE 1
+![Building the WebApp](./images/image1.jpg)
 
 In this guide, we will be discussing about our solution and how we built
 our web app using technologies like Vs code, HTML, CSS, Bootstrap, JavaScript and Github.
 
 ## Defining the workflow
-IMAGE 2
+![Defining the workflow](./images/image2.jpg)
 
 ### Project objective
 
@@ -98,7 +98,7 @@ women who have been affected.
 
 
 ## Technologies used 
-IMAGE 3
+![Technologies used](./images/image3.jpg)
 
 ### [Visual studio code](https://code.visualstudio.com/download)
 This is a software application used for editing, testing and packaging and
@@ -130,7 +130,7 @@ you and others work together on projects from anywhere.
 These technologies were put together to build our webapp.
 
 ## Getting started
-IMAGE 4
+![Getting started](./images/image4.jpg)
 
 ### Setting up SEO
 
