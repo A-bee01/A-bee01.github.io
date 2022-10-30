@@ -34,6 +34,7 @@ For more information scan the QR code to visit Girls Nest
 
 ![Girls_nest_poster](./images/Girls_nest_poster.png)
 
+Design presentation on behance (https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351)
 
 ## Building the WebApp
 
