@@ -33,9 +33,7 @@ Or scan the QR code to visit Girls Nest
 * A safe space where people who have been affected can reach out to us and get a chance to connect with our professionals. 
 * We are going to connect these wonderful ladies to agencies or companies where they can learn relevant tech or non-tech skills. 
 * Companies or individuals can donate to a particular cause to help women who have been affected there by empowering them financially. 
-* We also incorporated an audio based educative tips to help people who are going through certain problems. 
-* These audios can also be accessed in different native languages for ladies from different places around the world where English 
-is not understood. 
+* We also incorporated an audio based educative tips to help people who are going through certain problems.  
 
 
 ## Building the WebApp
@@ -150,3 +148,5 @@ Service worker is used to cache the WebApp for offline use.
 
 * A forum where people affected can get the chance to meet and talk to others, share their stories and learn from their experiences. 
 * Users will be awarded badges after reading our educational tips/counseling. 
+* These audios can also be accessed in different native languages for ladies from different places around the world where English 
+is not understood.
