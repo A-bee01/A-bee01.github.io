@@ -154,3 +154,9 @@ Go to `sw.js` in the root directory of the project, in the `cacheName` field, ad
 Service worker is used to cache the WebApp for offline use.
 
 ![sw.js file](./images/Screenshot3.png)
+
+### Future Progression
+
+
+*A safe space where people affected can get the chance to meet and talk to others, share their stories and learn from their experience. 
+*Users will be awarded badges after reading our educational tips/ counseling. 
