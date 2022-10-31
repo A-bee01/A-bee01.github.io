@@ -85,7 +85,7 @@ Design presentation [link](https://www.behance.net/gallery/155953431/Girls-Nest-
 ### [Visual studio code](https://code.visualstudio.com/download)
 This is a software application used for editing, testing and packaging and developing codes efficiently.
 
-### [HTML](https://html.com/) - 
+### [HTML](https://html.com/) 
 HTML is a language for describing the structure 
 of Web pages. HTML gives authors the means to: Publish online documents with headings, 
 text, tables, lists, images, etcetera.
@@ -148,5 +148,5 @@ Service worker is used to cache the WebApp for offline use.
 
 ### Future Progression
 
-* A forum where people affected can get the chance to meet and talk to others, share their stories and learn from their experience. 
+* A forum where people affected can get the chance to meet and talk to others, share their stories and learn from their experiences. 
 * Users will be awarded badges after reading our educational tips/counseling. 
