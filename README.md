@@ -77,13 +77,13 @@ the audio in the web application.
 * Chat a professional page - We created a [Tawk.to](https://tawk.to/chat/635d1e08b0d6371309cc304f/default) account for girls nest and linked it to the web app
 thereby when clicked, sends us a message.
 
-* Donate to the cause - A [buymeacoffee] (https://www.buymeacoffee.com/girl.nest) account was also created for girls nest do that Companies and 
+* Donate to the cause - A [buymeacoffee](https://www.buymeacoffee.com/girl.nest) account was also created for girls nest do that Companies and 
 individuals who visit the page and want to donate to our cause can do so, thereby helping 
 women who have been affected and needs financial support.
 
 ## Designing the Interface/prototype
-Design presentation link of Girls Nest on Behance
-(https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351)
+Design presentation [link](https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351) of Girls Nest on Behance
+
 
 ## Technologies used 
 ![Technologies used](./images/image3.jpg)
