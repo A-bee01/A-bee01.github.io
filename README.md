@@ -1,40 +1,36 @@
 # Girls Nest
 
 Women have always been at the center of the society,they are the unsung heroes in every family. While they are seen as one of the people at the forefront, 
-they have been affected by various problems ranging from sexual harassment to more advanced form of domestic violence or gender based violence. Most of them have lost the hold of their voices. No one to talk to, cry to, not even empathise with them. Of most concern is the fact that most women in underdeveloped societies are illetrates. They serve as a trade off. This have led to lack of women who can participate fully in the society and a shrinkage in skills. The workforce isn't balanced.
-women are unable to take advantage of the mobile internet.
+they have been affected by various problems ranging from sexual harassment to more advanced form of domestic violence or gender based violence. Most of them have lost the hold of their voices. No one to talk to, cry to, not even empathise with them. Our greatest concern is the fact that most women in underdeveloped societies are illetrates. They serve as a trade off. This have led to lack of women who can participate fully in the society and a shrinkage in skills. 
+The workforce isn't balanced. 
 
 During the covid 19 pandemic, there was a trend, "Justice for Uwa" on the social media. A teenager who was raped. 
 She couldn't contain the feeling that she was raped by three men and died at the end of the day. A lot of women go through cases even more 
-problems weightier than this and this have lead to depression, mental 
-stress and so many more. 
+problems weightier than this and this have lead to depression, mental stress and so many more. 
 
-There are organization focused on solving problems for the girl child but it's not enough and that's where 
-Girls Nest Foundation comes in.
+There are organization focused on solving problems for the girl child but it's not enough and that's where Girls Nest comes in.
 
-Girls Nest is an organization focused on helping females who have been affected sexually and mentally. We help 
-them speak out, know how to handle these problems and also get all the support they need. 
+Girls Nest is an organization focused on helping females who have been affected sexually and mentally. We help them speak out, know how to handle these problems and also get all the support they need. 
 
 
 ## Case study
 Meet Adesua, a 22 years old lady who went to a chapel at night to pray but ended up being raped by two men. 
-She couldn't survive it because her voice was absorbed by the rain and no one could save her. A girl with so 
-much dreams lost her life just like that and left her family shattered. 
+She couldn't survive it because her voice was absorbed by the rain and no one could save her. A girl with so much dreams lost her life just like that and left her family shattered. 
 
-Solution: Girls Nest is a platform built as a safe space for marginalized girls and women who have been 
-affected sexually, mentally with access to incorporated audios and articles based on educative tips. Also, 
-where they can reach out to us and we connect them with agencies which can be of great help to them. 
+## Solution
+Girls Nest is a platform built as a safe space for marginalized girls and women who have been 
+affected sexually and mentally. They have access to incorporated audios based on educative tips. 
+Also, they can reach out to us and we connect them with agencies which can be of great help to them. 
 Companies and individuals can donate to this cause thereby helping women who has been affected.
 
 
 
 ## Features of the application
 * A safe space where people who have been affected can reach out to us and get a chance to connect with our professionals. 
-* We are going to connect them to agencies or companies where they can learn relevant tech or non- tech skills. 
+* We are going to connect them to agencies or companies where they can learn relevant tech or non-tech skills. 
 * Companies or individuals can donate to a particular cause or help women who have been affected there by empowering them financially. 
-* We also incorporated an audio based educative tips to help people who are going through problems
-* They can reach out to us with their problems and we connect them to agencies which can help them. 
-* Incorporation of native languages for ladies from different places around the world where English 
+* We also incorporated an audio based educative tips to help people who are going through certain problems. 
+* These audios can also be accessed in different native languages for ladies from different places around the world where English 
 is not understood. 
 
 
@@ -76,12 +72,12 @@ our partners.
 * Audio page - We used the wom.fm template existing structure to develop 
 the audio in the web application.
 
-* Chat a professional page - We created a [Tawk.to](http://tawk.to) account for girls nest and linked it to the web app
+* Chat a professional page - We created a [Tawk.to](https://tawk.to/chat/635d1e08b0d6371309cc304f/default) account for girls nest and linked it to the web app
 thereby when clicked, sends us a message.
 
-* Donate to the cause - A  solely for Companies and 
-individuals who visit the page and want to donate to our cause thereby helping 
-women who have been affected.
+* Donate to the cause - A [buymeacoffee] (https://www.buymeacoffee.com/girl.nest) account was also created for girls nest do that Companies and 
+individuals who visit the page and want to donate to our cause can do so, thereby helping 
+women who have been affected and needs financial support.
 
 ## Designing the Interface/prototype
 Design presentation link of Girls Nest on Behance
