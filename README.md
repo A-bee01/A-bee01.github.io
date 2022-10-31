@@ -65,10 +65,8 @@ or agencies to contribute to this cause.
 This web application consists of:
 
 * A landing page - This is where the product branding is implemented.  
-The header contains the objective of the project. The body contains 
-the features and content of the webapp, and a "Get started" button. And 
-lastly, at the bottom of the page, the footer comprises contact link and 
-our partners information.
+The header contains the objective of the project. The body contains the features and content of the webapp, a "Get started" button and at the footer comprises contact links to 
+our partners.
 
 * An Explore page – This an exploring page where users can 
      – Access the audios
@@ -78,12 +76,10 @@ our partners information.
 * Audio page - We used the wom.fm template existing structure to develop 
 the audio in the web application.
 
-* Chat a professional page - This is a page built with php, containing a 
-form that sends us an email when filled.
-We created a [Tawk.to](http://tawk.to) account and linked to the page, 
+* Chat a professional page - We created a [Tawk.to](http://tawk.to) account for girls nest and linked it to the web app
 thereby when clicked, sends us a message.
 
-* Donate to the cause - This is a page built solely for Companies and 
+* Donate to the cause - A  solely for Companies and 
 individuals who visit the page and want to donate to our cause thereby helping 
 women who have been affected.
 
