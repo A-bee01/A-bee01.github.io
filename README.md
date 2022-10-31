@@ -49,9 +49,6 @@ For more information scan the QR code to visit Girls Nest
 
 ![Girls_nest_poster](./images/Girls_nest_poster.png)
 
-## Design
-Design presentation link of Girls Nest on Behance
-(https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351)
 
 ## Building the WebApp
 ![Building the WebApp](./images/image1.jpg)
@@ -98,7 +95,8 @@ individuals who visit the page and want to donate to our cause thereby helping
 women who have been affected.
 
 ## Designing the Interface/prototype
-
+Design presentation link of Girls Nest on Behance
+(https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351)
 
 ## Technologies used 
 ![Technologies used](./images/image3.jpg)
