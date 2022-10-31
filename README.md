@@ -52,7 +52,7 @@ our web app using technologies like Vs code, HTML, CSS, Bootstrap, JavaScript an
 
 ### Project objective
 
-Our project is a a web application built a safe space for
+Our project is a web application built a safe space for
 marginalized girls and women who have been affected sexually, 
 mentally, giving them access to educational audios, a platform
 for seeking support from a professionals, and a space for individuals
@@ -82,7 +82,7 @@ individuals who visit the page and want to donate to our cause can do so, thereb
 women who have been affected and needs financial support.
 
 ## Designing the Interface/prototype
-Design presentation [link](https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351) of Girls Nest on Behance
+Design presentation [link](https://www.behance.net/gallery/155953431/Girls-Nest-audio-application/modules/879912351) of Girls Nest can be accessed on Behance.
 
 
 ## Technologies used 
