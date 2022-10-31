@@ -23,6 +23,8 @@ affected sexually and mentally. They have access to incorporated audios based on
 Also, they can reach out to us and we connect them with agencies which can be of great help to them. 
 Companies and individuals can donate to this cause thereby helping women who has been affected.
 
+Access Girls Nest [here](https://tech-girl1.github.io/)
+
 
 
 ## Features of the application
@@ -115,8 +117,12 @@ you and others work together on projects from anywhere.
 
 These technologies were put together to build our webapp.
 
-## Getting started
+## Adding the Javascript
+
 ![Getting started](./images/image4.jpg)
+
+Before getting started, you must basic knowledge of how to use
+Visual studio code, HTML, CSS and ability to use Github.
 
 ### Setting up SEO
 
@@ -149,6 +155,5 @@ Service worker is used to cache the WebApp for offline use.
 
 ### Future Progression
 
-
-*A safe space where people affected can get the chance to meet and talk to others, share their stories and learn from their experience. 
-*Users will be awarded badges after reading our educational tips/ counseling. 
+* A forum where people affected can get the chance to meet and talk to others, share their stories and learn from their experience. 
+* Users will be awarded badges after reading our educational tips/counseling. 
