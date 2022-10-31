@@ -1,12 +1,12 @@
 # Girls Nest
 
-Women have always been at the center of the society, and while they are seen as one of the people at the forefront, 
-they have been affected by various problems. And also, Due to lack of illiteracy and digital skills, millions of 
+Women have always been at the center of the society,they are the unsung heroes in every family. While they are seen as one of the people at the forefront, 
+they have been affected by various problems ranging from sexual harassment to more advanced form of domestic violence or gender based violence. Most of them have lost the hold of their voices. No one to talk to, cry to, not even empathise with them. Of most concern is the fact that most women in underdeveloped societies are illetrates. They serve as a trade off. This have led to lack of women who can participate fully in the society and a shrinkage in skills. The workforce isn't balanced.
 women are unable to take advantage of the mobile internet.
 
 During the covid 19 pandemic, there was a trend, "Justice for Uwa" on the social media. A teenager who was raped. 
-She couldn't contain the feeling that she died at the end of the day. A lot of women go through cases even more 
-weightier than this. They end up having no one to talk to or run to and this have lead to depression, mental 
+She couldn't contain the feeling that she was raped by three men and died at the end of the day. A lot of women go through cases even more 
+problems weightier than this and this have lead to depression, mental 
 stress and so many more. 
 
 There are organization focused on solving problems for the girl child but it's not enough and that's where 
@@ -29,21 +29,14 @@ Companies and individuals can donate to this cause thereby helping women who has
 
 
 ## Features of the application
-* Companies or individuals can donate to a particular cause or help women who have been affected. 
+* A safe space where people who have been affected can reach out to us and get a chance to connect with our professionals. 
+* We are going to connect them to agencies or companies where they can learn relevant tech or non- tech skills. 
+* Companies or individuals can donate to a particular cause or help women who have been affected there by empowering them financially. 
 * We also incorporated an audio based educative tips to help people who are going through problems
 * They can reach out to us with their problems and we connect them to agencies which can help them. 
-
-
-
-## Extra Features not currently in the web app
-
 * Incorporation of native languages for ladies from different places around the world where English 
 is not understood. 
-* A safe space where these ladies that can relate to what the other is passing through can meet up with 
-themselves and get to air their views
-* A place where these ladies can have access to learn non technical and technical skills. 
-* An open space where ladies that do not mind can share their stories. To help keep others motivated. 
-One can also decide to be anonymous. 
+
 
 For more information scan the QR code to visit Girls Nest
 
