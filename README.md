@@ -23,7 +23,7 @@ affected sexually and mentally. Girls Nest give them access to incorporated audi
 Also, they can reach out to us and we get to connect them with agencies that can be of great help to them. 
 Companies and individuals can donate to this cause thereby helping women who has been affected.
 
-Access Girls Nest [here](https://tech-girl1.github.io/)
+Access Girls Nest [here](https://a-bee01.github.io/)
 
 Or scan the QR code to visit Girls Nest
 ![Girls_nest_poster](./images/Girls_nest_poster.png)
